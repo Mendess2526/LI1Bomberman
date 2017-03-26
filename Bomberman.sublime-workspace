@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_move"
+			],
+			[
+				"map",
+				"mapstate"
+			],
+			[
+				"min",
+				"minSmin"
+			],
+			[
+				"decode",
+				"decodeStats"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pedro/Documents/li2cgi/parser.c",
+		"/home/pedro/Documents/li2cgi/phn.c",
+		"/home/pedro/Documents/li2cgi/test.c",
+		"/home/pedro/Projects/Haskell/Bomberman/compile.bat",
+		"/home/pedro/Projects/Haskell/Bomberman/Bot.hs",
+		"/home/pedro/Projects/Haskell/Bomberman/Main.hs",
+		"/home/pedro/Projects/Haskell/Bomberman/Avanca.hs",
+		"/home/pedro/Projects/Haskell/Bomberman/Move.hs",
+		"/home/pedro/Projects/Haskell/Bomberman/Mapa.hs",
+		"/D/Pedro Mendes/Mega/Other Stuffs/Projects/Haskell/Bomberman/runCompile.bat",
+		"/D/Pedro Mendes/Mega/Documents/li1g004/src/Tarefa5.hs",
+		"/D/Pedro Mendes/Mega/Other Stuffs/Projects/Haskell/Bomberman/rotatin test.hs",
+		"/C/Users/Pedro Mendes/Desktop/moe.defs",
+		"/C/Program Files (x86)/BlueJ/lib/moe.defs",
+		"/C/Program Files (x86)/BlueJ/lib/bluej.defs",
+		"/C/Users/Pedro Mendes/Desktop/Shutd50.bat",
+		"/C/Users/Pedro Mendes/Downloads/Grixis_Delver_Current.dec-2.dec",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/audio/playlists/MainKraft.txt",
+		"/D/Pedro Mendes/Mega/Documents/li1g004/src/Tarefa6_li1g004.hs",
+		"/C/Users/Pedro Mendes/Desktop/Fichas/ficha9.hs",
+		"/C/Users/Pedro Mendes/Desktop/Fichas/ficha11.hs",
+		"/C/Users/Pedro Mendes/Desktop/Fichas/ficha10.hs",
+		"/C/Users/Pedro Mendes/Desktop/Fichas/ficha8.hs",
+		"/D/Pedro Mendes/Mega/Documents/li1g004/src/mapa so com buffs.txt",
+		"/D/Pedro Mendes/Mega/Documents/li1g004/src/Tarefa1.hs",
+		"/C/Users/Pedro Mendes/AppData/Local/Temp/Temp1_z_a1s1Programacao Funcional.zip/z_a1s1Programacao Funcional/Fichas/ficha7.hs",
+		"/C/Users/Pedro Mendes/AppData/Roaming/HearthstoneDeckTracker/Plugins/BattleCry/AudioFiles/cardsoundconfig.xml",
+		"/D/Pedro Mendes/Mega/Documents/_a1s1Laboratorios de Informatica/testFileField.hs",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/audio/playlists/136220994812641280/ClassicalKraft.txt",
+		"/D/Pedro Mendes/Mega/Documents/li1g004/src/Tarefa3.hs",
+		"/D/Pedro Mendes/Mega/Documents/li1g004/src/Tarefa2.hs",
+		"/D/Pedro Mendes/Mega/Ubuntu/PF/Fichas/ficha1.hs",
+		"/D/Pedro Mendes/Mega/Ubuntu/PF/Fichas/ficha2.hs",
+		"/C/Users/Pedro Mendes/Desktop/spark/Spark-master/package.json",
+		"/D/Pedro Mendes/Mega/Ubuntu/PF/Fichas/questoes1.hs",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/13perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/12perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/11perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/10perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/9perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/8perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/7perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/6perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/5perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/4perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/3perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/2perg.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/1perg.c",
+		"/C/Users/Pedro Mendes/Desktop/Card nerfs.txt",
+		"/C/Users/Pedro Mendes/Desktop/best minecraft command.txt",
+		"/C/Users/Pedro Mendes/Desktop/Reddit tagging guidelines.txt",
+		"/C/Users/Pedro Mendes/Desktop/anime trivia.txt",
+		"/D/Pedro Mendes/Mega/NotUbuntu/cadeiras.txt",
+		"/D/Pedro Mendes/Mega/Ubuntu/LI/mapas.hs",
+		"/C/Users/Pedro Mendes/Downloads/master",
+		"/C/Users/Pedro Mendes/Downloads/7d90499d571221e2ec71914e56aee35afa9340",
+		"/D/Pedro Mendes/Mega/Ubuntu/_a1s1Programacao Funcional/Fichas/questoes1.hs",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/emotes/available_emotes.json",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/36perg.c",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/audio/playlists/136220994812641280/MainKraft.txt",
+		"/C/Users/Pedro Mendes/Desktop/triggers.py",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/cogs/triggers.py",
+		"/C/Users/Pedro Mendes/Downloads/Deck - Grixis Delver.txt",
+		"/C/Users/Pedro Mendes/Downloads/Deck - Infect.txt",
+		"/D/Pedro Mendes/Documents/My Games/Tabletop Simulator/Saves/Chest/MTG Decks/Damia Sage of Stone.json",
+		"/C/Users/Pedro Mendes/Downloads/Deck - Bant Eldrazi.txt",
+		"/C/Users/Pedro Mendes/Downloads/Deck - G-W Hatebears.txt",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/quotes/quotes.json",
+		"/C/Program Files (x86)/HiAlgo/Plugins/BOOST/!ReadMe_HiAlgoBoost.txt",
+		"/C/Users/Pedro Mendes/AppData/Local/Temp/Temp1_ReadBooksAloud-46088-1-0-1.zip/ReadBooksAloud Readme.txt",
+		"/D/Pedro Mendes/Videos/_Sound bites for vids/memes/New Text Document.txt",
+		"/C/Program Files (x86)/Bethesda Softworks/The Elder Scrolls V Skyrim - Legendary Edition/Data/Glass Armor Fix/Instructions.txt",
+		"/C/Program Files (x86)/Bethesda Softworks/The Elder Scrolls V Skyrim - Legendary Edition/Data/d3d9.dll",
+		"/D/Pedro Mendes/Documents/My Games/Skyrim/SkyrimPrefs.ini",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/audio/playlists/181099193274728450/CupMaster.txt",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/THE REAL UPDATER.txt",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/update+startRedLoop.bat",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/audio/playlists/210496846244741120/musicas_treinar_csgo.txt",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/cogs/woke.py",
+		"/D/Pedro Mendes/Documents/My Games/Tabletop Simulator/Saves/Chest/MTG Decks/Marchesa.txt",
+		"/C/Users/Pedro Mendes/Downloads/04-07-16-marchesa (1).txt",
+		"/D/Pedro Mendes/Documents/Dii Personalities.txt",
+		"/C/Users/Pedro Mendes/Desktop/Tabletop Simulator mtg decks/Brago Bounce.txt",
+		"/C/Users/Pedro Mendes/Downloads/39perg.c",
+		"/C/Users/Pedro Mendes/Desktop/Heart of Darkness/COMO_RODAR.txt",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/audio/playlists/MainKraft_2.txt",
+		"/C/Users/Pedro Mendes/Downloads/daxos-maxus-final.txt",
+		"/C/Users/Pedro Mendes/Desktop/Daxos.txt",
+		"/C/Users/Pedro Mendes/Downloads/Golgari.json",
+		"/C/Users/Pedro Mendes/Downloads/frogtown_deck.json",
+		"/D/Pedro Mendes/Documents/Discord Backup Codes/discord_backup_codes.txt",
+		"/C/Users/Pedro Mendes/Desktop/fear of the dank.txt",
+		"/C/Users/Pedro Mendes/AppData/Local/Temp/Temp1_DCF_plugin-36125-1-3.zip/readme.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Tabletop Simulator/Modding/Deck Templates/Custom Deck Info.txt",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/audio/accepted_links.json",
+		"/C/Users/Pedro Mendes/AppData/Local/Temp/7zOC35.tmp/README.txt",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/audio/playlists/136220994812641280/nostalgia.txt",
+		"/C/Users/Pedro Mendes/Desktop/bignoodle_titling/big_noodle_titling.txt",
+		"/C/Users/Pedro Mendes/AppData/Local/Temp/Temp1_refactored-cogs-master.zip/refactored-cogs-master/punish/info.json",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/cogs/fetch.py",
+		"/C/Users/Pedro Mendes/Desktop/Invite TableTop Discord Group.txt",
+		"/C/Users/Pedro Mendes/AppData/Local/Temp/Temp1_Jumper-Cogs-master.zip/Jumper-Cogs-master/pokedex/info.json",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/cogs/lottery.py",
+		"/D/Pedro Mendes/Mega/NotUbuntu/DiscordBot/Red-DiscordBot/data/audio/playlists/MainKraft.txt",
+		"/D/Pedro Mendes/Documents/DiscordBot/Red-DiscordBot/data/audio/playlists/transistor.txt",
+		"/D/Pedro Mendes/Videos/Sony Vegas/Database.txt",
+		"/C/Users/Pedro Mendes/Desktop/diagnostics",
+		"/C/Users/Pedro Mendes/Desktop/main1.c",
+		"/D/Pedro Mendes/Mega/NotUbuntu/DiscordBot/Red-DiscordBot/data/audio/settings.json",
+		"/C/Users/Pedro Mendes/Downloads/txt.txt",
+		"/C/Users/Pedro Mendes/Desktop/puls.txt",
+		"/D/Pedro Mendes/Mega/NotUbuntu/DiscordBot/Red-DiscordBot/data/alias/aliases.json",
+		"/D/Pedro Mendes/Mega/NotUbuntu/DiscordBot/Red-DiscordBot/startRedLoop.bat",
+		"/D/Pedro Mendes/Mega/NotUbuntu/DiscordBot/Red-DiscordBot/data/red/settings.json",
+		"/D/Pedro Mendes/Mega/Ubuntu/LA/cartas.c",
+		"/C/Users/Pedro Mendes/Desktop/pc do luis.txt",
+		"/D/Pedro Mendes/Mega/Ubuntu/PI/50perg/24perg.c",
+		"/C/Users/Pedro Mendes/Desktop/faggotree.c",
+		"/C/Users/Pedro Mendes/Desktop/!addcom BestZeldaRap.txt",
+		"//192.168.1.6/Documents/PI/questoestestePI-1º1.c",
+		"//192.168.1.6/Documents/PI/50perg/6perg.c",
+		"//192.168.1.6/Documents/PI/50perg/3perg.c",
+		"//192.168.1.6/Documents/PI/50perg/2perg.c",
+		"//192.168.1.6/Documents/PI/50perg/1perg.c",
+		"//192.168.1.6/Documents/PI/50perg/11perg.c",
+		"/D/Pedro Mendes/Mega/DiscordBot/Red-DiscordBot/data/audio/playlists/MainKraft.txt",
+		"/C/Users/Pedro Mendes/Desktop/50e09.c",
+		"/D/Pedro Mendes/Mega/Ubuntu/Programação Funcional/50perg/5perg.c"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nb))",
+			"nb)",
+			"background",
+			"dark t",
+			"🌒Momo",
+			"::::",
+			"Trevor",
+			"(edited)",
+			"http://www.youtube.com/watch?v=uY3LAFJbKyY",
+			"\",\"",
+			"https://www.youtube.com/watch?v=-VxX1j9zY0M",
+			"validPlay",
+			"==",
+			"cNzSGbXKUk",
+			"PcNzSGbXKUk",
+			"#######\n#     #\n# # # #\n# ??  #\n# #?# #\n#     #\n#######\n+ 3 3\n+ 3 4\n* 5 5 1 1 10\n0 1 3\n1 5 2\n2 3 5",
+			"#######\n#     #\n# # # #\n# ??  #\n# #?# #\n#     #\n#######\n+ 3 3\n+ 3 4\n* 5 5 1 1 10\n0 1 3\n1 5 2\n2 3 5\n3 5 3",
+			"+",
+			"soma",
+			" ",
+			"  ",
+			"   ",
+			"    ",
+			"     ",
+			"      ",
+			"       ",
+			"        ",
+			"         ",
+			"          ",
+			"           ",
+			"            ",
+			"             ",
+			"              ",
+			"               ",
+			"                ",
+			"                 ",
+			"                  ",
+			"                   ",
+			"                    ",
+			"                     ",
+			"                      ",
+			"                       ",
+			"                        ",
+			"                         ",
+			"                          ",
+			"                           ",
+			"                            ",
+			"                             ",
+			"                              ",
+			"                               ",
+			"                                ",
+			"                                 ",
+			"                                  ",
+			"rem",
+			"\"https://www.youtube.com/watch?v=cpbbuaIA3Ds\",",
+			"cpbbuaIA",
+			"https://www.youtube.com/watch?v=5ZCgbGgA-_8",
+			"PAUSE",
+			"https://www.youtube.com/watch?v=_TUTJ0klnKk",
+			"__",
+			"Golgari",
+			"~",
+			"*",
+			".",
+			"https://www.youtube.com/watch?v=ZRAr354usf8",
+			" PM] Mendess: ",
+			"[8:41 PM] Mendess: ",
+			"(edited)",
+			"(edited)\n",
+			"\n",
+			" ",
+			"Ask and ye shall receive.",
+			"https://www.youtube.com/watch?v=OwxcQvB_vcQ",
+			"Oagoz",
+			"https://www.youtube.com/watch?v=Gk1v9s5s7YI",
+			"https://www.youtube.com/watch?v=3YxaaGgTQYM",
+			"https://www.youtube.com/watch?v=RGpkNPbSa2Q",
+			"https://www.youtube.com/watch?v=3_-a9nVZYjk",
+			"the memes",
+			"https://www.youtube.com/watch?v=L_jWHffIx5E",
+			"walks",
+			"Dark",
+			"acade",
+			"Dan",
+			"Ego",
+			"https://www.youtube.com/watch?v=3dm_5qWWDV8",
+			"Alquemist",
+			"what is this Knightmare",
+			"i",
+			"x",
+			"y",
+			"Ah huh, you know what it is\nEvery spliff I roll, I roll it big\nAh huh, screaming that's skunk\nWhen I roll up the blunt, that's skunk\nSee me in your town with the pounds of the haze\nGreen and Purple (Repeat 4x's)\nIf you smoke this shit you'll be high for days\nGreen and Purple (Repeat 4x's)",
+			"Yea we smoking diesel, yea we smoking kush\nI just smoked some shit I think they call it George Bush\nIt got me feeling dumb, got me feeling numb\nI'm high, how much lower can the ceiling come\nAbove the clouds, flying next to planes\nI got sour, you got lemon haze? Let's exchange\nMy money like my weed, yea I make it grow\nI got everything you need, call me Trader Joe\nI'm making dough so I smoke the finer trees\nIt got me seeing double so I call it Siamese\nMy lighter broke I need some fire please\nI got the munchies, let me get a chicken gyro & some fries with cheese",
+			"Ah huh, you know what it is\nEvery spliff I roll, I roll it big\nAh huh, screaming that's skunk\nWhen I roll up the blunt, that's skunk\nSee me in your town with the pounds of the haze\nGreen and Purple (Repeat 4x's)\nIf you smoke this shit you'll be high for days\nGreen and Purple (Repeat 4x's)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"nb)",
+			"nb",
+			":: dark t",
+			":: 🌒Momo",
+			"::",
+			":: Trevor",
+			"",
+			"@",
+			" ",
+			"===",
+			"	",
+			"\"https://www.youtube.com/watch?v=-0kcet4aPpQ\",",
+			"https://www.youtube.com/watch?v=-0kcet4aPpQ",
+			"",
+			"https://www.youtube.com/watch?v=IR6HrjR9kSI",
+			"~~",
+			".",
+			"~",
+			"*",
+			"",
+			"\n		",
+			"\n\n		",
+			"",
+			"\n",
+			"",
+			"https://www.youtube.com/watch?v=96MiYk9VYvc",
+			"https://www.youtube.com/watch?v=b-pKoWrPS9E",
+			"",
+			"memes",
+			"posts",
+			"Dank",
+			"OldMan",
+			"Link",
+			"Alchemist",
+			"What Knightmare is this?",
+			"What Knitemare is this?",
+			"i",
+			"x"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
